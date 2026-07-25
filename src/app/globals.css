@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #F9F9F9;
+  --color-foreground: #171717;
+  --font-sans: var(--font-nunito), sans-serif;
+  --font-body: var(--font-nunito), sans-serif;
+  --font-heading: var(--font-lora), Georgia, serif;
+  --color-brand-yellow: #FFCE04;
+  --color-brand-orange: #F5A623;
+  --color-brand-green: #FFCE04;
+
+  @keyframes slow-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  --animate-slow-spin: slow-spin 20s linear infinite;
+
+  @keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  --animate-ticker: ticker 30s linear infinite;
+
+  @keyframes pulsate {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.85; transform: scale(0.99); }
+  }
+  --animate-pulsate: pulsate 4s ease-in-out infinite;
+}
+
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

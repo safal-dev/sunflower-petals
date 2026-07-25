@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cliky-bundle",
+    "name": "Cliky Bundle",
+    "categoryId": "sensory-regulation",
+    "brandId": "cliky-claky",
+    "description": "The ultimate sensory collection. Includes high-fidelity Sunflower, Cheese, and Rotary tools.",
+    "microDescription": "Sunflower + Cheese + Rotary",
+    "color": "#FEF3C7",
+    "priceNumeric": 750,
+    "offerPriceNumeric": 500,
+    "tag": "Value Pack",
+    "featured": true,
+    "isOriginal": true,
+    "whyToUse": "The Bundle offers a versatile toolkit for diverse sensory needs. Having all three flagship tools allows children to find the exact tactile feedback they need for any home or school environment.",
+    "howToUse": [
+      "Swap between the Sunflower, Cheese, and Rotary tools to prevent sensory habits.",
+      "Use the variety of textures and resistance levels to keep engagement high.",
+      "Rotate tools across different environments (one for school, one for car, one for home)."
+    ],
+    "whenToUse": [
+      {
+        "title": "All-Day Support",
+        "description": "Keep different tools in different rooms for constant regulatory support."
+      },
+      {
+        "title": "Therapy Success",
+        "description": "Ideal for clinicians working with diverse sensory profiles."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Variety Support",
+      "Sensory Discovery",
+      "Self-Regulation Across Environments",
+      "Comprehensive Fine Motor Development"
+    ],
+    "specifications": {
+      "Contents": "Sunflower, Cheese, and Rotary Cliky tools",
+      "Total Savings": "NPR 250 compared to individual purchase",
+      "Suitability": "Ideal for homes, classrooms, and therapy sessions"
+    },
+    "image": "/bundle.png",
+    "images": [
+      "/sunflower.png",
+      "/cheese.png",
+      "/rotary.png"
+    ],
+    "productIds": [
+      "sunflower",
+      "cheese",
+      "rotary"
+    ]
+  }
+]

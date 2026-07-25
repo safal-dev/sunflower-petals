@@ -1,0 +1,16 @@
+[
+  {
+    "id": "test_001",
+    "productId": "sunflower",
+    "name": "Elena R.",
+    "role": "Parent",
+    "text": "The Sunflower has become a staple in our 'calm down' kit. My son loves the tactile resistance."
+  },
+  {
+    "id": "test_002",
+    "productId": "cliky-bundle",
+    "name": "Aarav K.",
+    "role": "Occupational Therapist",
+    "text": "The variety in the bundle is exceptional for discovery. Every child finds their 'hero' tool here."
+  }
+]

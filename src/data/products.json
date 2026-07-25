@@ -1,0 +1,342 @@
+[
+  {
+    "id": "sunflower",
+    "name": "Sunflower",
+    "brandId": "cliky-claky",
+    "categoryId": "sensory-regulation",
+    "description": "A warm, floral-inspired sensory tool with satisfying tactile feedback.",
+    "_microDescription": "",
+    "color": "#FFF9E5",
+    "priceNumeric": 400,
+    "offerPriceNumeric": 300,
+    "tag": "Bestseller",
+    "featured": true,
+    "isOriginal": true,
+    "whyWeLoveIt": [
+      "The satisfying, rhythmic click provides instant grounding.",
+      "Pocket-sized design makes it perfect for discreet sensory support.",
+      "Bio-degradable material that is safe and durable for all ages."
+    ],
+    "whyToUse": "The Sunflower provides warm and calming tactile feedback that builds fine motor skills and encourages cause-and-effect learning through its satisfying, predictable click.",
+    "howToUse": [
+      "Press the petals to release restless energy during times of overstimulation.",
+      "Use the consistent clicking feedback to maintain focus and grounding during tasks.",
+      "Keep nearby in quiet spaces to provide a non-distracting sensory outlet."
+    ],
+    "whenToUse": [
+      {
+        "title": "During Transitions",
+        "description": "Perfect for bridging the gap between high-energy play and focused task-time."
+      },
+      {
+        "title": "Public Spaces",
+        "description": "A silent, pocket-sized companion for dental visits or crowded malls."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Self-Regulation",
+      "Focus & Attention",
+      "Fine Motor Skills",
+      "Grounding"
+    ],
+    "specifications": {
+      "Materials": "Bio-degradable PLA (Polylactic Acid) via 3D printing",
+      "Build Time": "15–30 minutes per piece",
+      "Audience": "Children, sensory seekers, therapists, educators"
+    },
+    "createdAt": "2024-01-01T00:00:00Z",
+    "image": "/sunflower 2.png",
+    "images": [
+      "/sunflower 2.png",
+      "/sunflower.png"
+    ]
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "brandId": "cliky-claky",
+    "categoryId": "sensory-regulation",
+    "description": "Playful and engaging, our cheese-themed cliky provides high-contrast tactile engagement.",
+    "color": "#FFFBEB",
+    "priceNumeric": 200,
+    "offerPriceNumeric": 150,
+    "tag": "Trending",
+    "featured": true,
+    "isOriginal": true,
+    "whyToUse": "With its playful and relatable shape, the Cheese supports safe, engaging, and non-overstimulating play, turning every click into a fun discovery.",
+    "howToUse": [
+      "Click the individual switches to develop precision and fine motor control.",
+      "Use the tactile repetition to support intention and cause-and-effect learning.",
+      "Engage in playful 'mouse and cheese' imaginative play while self-regulating."
+    ],
+    "whenToUse": [
+      {
+        "title": "Focus Time",
+        "description": "Ideal for sitting at a desk or during long car rides."
+      },
+      {
+        "title": "Sensory Discovery",
+        "description": "Use it as a 'fun' entry point for children new to sensory tools."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Fine Motor Skills",
+      "Cause-and-Effect Learning",
+      "Engaging Interaction",
+      "Numerical Operation (within 10)"
+    ],
+    "specifications": {
+      "Materials": "Bio-degradable PLA (Polylactic Acid) via 3D printing",
+      "Build Time": "15–30 minutes per piece",
+      "Audience": "Early learners and children benefiting from playful focus tools"
+    },
+    "createdAt": "2024-01-01T00:00:00Z",
+    "image": "/cheese.png",
+    "images": [
+      "/cheese.png"
+    ]
+  },
+  {
+    "id": "rotary",
+    "name": "Rotary",
+    "brandId": "cliky-claky",
+    "categoryId": "sensory-regulation",
+    "description": "A dial-inspired tactile tool that offers continuous movement and satisfying clicks.",
+    "color": "#F9FAFB",
+    "priceNumeric": 150,
+    "offerPriceNumeric": 110,
+    "tag": "New",
+    "featured": true,
+    "isOriginal": true,
+    "whyToUse": "The Rotary features a carefully designed dial that provides controlled, predictable motion—turning each rotation into a satisfying and grounding sensory experience.",
+    "howToUse": [
+      "Provide a deliberate push to activate the controlled, clicking spin.",
+      "Use the rhythmic rotation to support calm and concentration during transitions.",
+      "Maintain the spin to help with stress, restlessness, and self-regulation."
+    ],
+    "whenToUse": [
+      {
+        "title": "Stress Relief",
+        "description": "Use the continuous rotation to calm down during intense emotional moments."
+      },
+      {
+        "title": "Task Transition",
+        "description": "A great 'cool down' tool after high-energy physical activity."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Focus & Attention",
+      "Stress & Restlessness",
+      "Controlled Movement",
+      "Tactile Feedback"
+    ],
+    "specifications": {
+      "Materials": "Bio-degradable PLA via 3D printing",
+      "Build Time": "~22 minutes per piece",
+      "Audience": "Individuals and students benefiting from movement-based focus tools"
+    },
+    "createdAt": "2024-01-01T00:00:00Z",
+    "image": "/rotary.png",
+    "images": [
+      "/rotary.png"
+    ]
+  },
+  {
+    "id": "calendar",
+    "name": "Calendar",
+    "brandId": "dayday",
+    "categoryId": "organization-routine",
+    "description": "Our signature visual routine builder. Interactive and highly engaging.",
+    "color": "#f5f5f5",
+    "priceNumeric": 4400,
+    "offerPriceNumeric": 4000,
+    "tag": "Featured",
+    "featured": true,
+    "isOriginal": true,
+    "whyToUse": "The Calendar turns abstract concepts of time into playful, manageable, and engaging learning. It allows children to mark the current day, practice sequencing, and visually understand time while gaining confidence and independence.",
+    "howToUse": [
+      "Remove and place tags on the board using Velcro or magnets to match the current month.",
+      "Use 'Today', 'Yesterday', and 'Tomorrow' markers to teach time sequencing.",
+      "Establish daily routines by actively manipulating numbers and tags during morning check-ins."
+    ],
+    "whenToUse": [
+      {
+        "title": "Morning Routine",
+        "description": "Anchor your day by setting the date and discussing upcoming events at breakfast."
+      },
+      {
+        "title": "School Preparation",
+        "description": "Use it to visually count down to school holidays or exams."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Early Calendar Skills",
+      "Routine Building",
+      "Sequencing",
+      "Visual & Tactile Feedback"
+    ],
+    "specifications": {
+      "Materials": "3D-printed child-friendly components with interactive attachments",
+      "Audience": "Children learning time, parents, therapists, early learners",
+      "Durability": "Safe for repeated tactile interaction"
+    },
+    "createdAt": "2024-01-01T00:00:00Z",
+    "image": "/calendar.png",
+    "images": [
+      "/calendar.png"
+    ]
+  },
+  {
+    "id": "numbers",
+    "name": "Numbers",
+    "brandId": "numsum",
+    "categoryId": "skill-building",
+    "description": "Tactile number sets designed to make math tangible and fun.",
+    "color": "#f5f5f5",
+    "priceNumeric": 1100,
+    "offerPriceNumeric": 750,
+    "tag": "Trending",
+    "featured": true,
+    "isOriginal": true,
+    "whyToUse": "These colorful, stackable numbers assist children with numerical operations, making abstract math highly interactive and visual. Learning numbers has never been this colorful, tactile, and engaging.",
+    "howToUse": [
+      "Stack and sort the numbers to build early math concepts visually.",
+      "Use the concrete visual blocks to practice addition and subtraction hands-on.",
+      "Explore the tactile feedback and stackable geometry to engage multiple senses during learning."
+    ],
+    "whenToUse": [
+      {
+        "title": "Home Schooling",
+        "description": "Supplement abstract lessons with tangible, stackable numbers."
+      },
+      {
+        "title": "Sensory Math Lab",
+        "description": "Integrate into math centers where children learn through play."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Early Math Skills",
+      "Visual Addition & Subtraction",
+      "Problem-Solving",
+      "Sensory Engagement During Education"
+    ],
+    "specifications": {
+      "Materials": "PLA (Polylactic Acid) via 3D printing",
+      "Build Time": "~4 hours 20 minutes for direct set",
+      "Durability": "Durable and safe for repeated school and home use"
+    },
+    "createdAt": "2024-01-01T00:00:00Z",
+    "image": "/numbers.png",
+    "images": [
+      "/numbers.png"
+    ]
+  },
+  {
+    "id": "my-toilet-routine",
+    "name": "My Toilet Routine",
+    "brandId": "dayday",
+    "categoryId": "organization-routine",
+    "description": "A clear, waterproof visual sticker set designed to help children master bathroom habits step by step.",
+    "microDescription": "",
+    "color": "#FEF6EC",
+    "priceNumeric": 200,
+    "tag": "New",
+    "featured": true,
+    "isOriginal": true,
+    "whyWeLoveIt": [
+      "Clear Visual Guidance: Replaces overwhelming verbal instructions with 11 easy-to-follow picture steps.",
+      "Bathroom-Ready Durability: Printed on waterproof vinyl that sticks smoothly on clean surfaces and wipes clean easily with a damp cloth.",
+      "Builds Independence: Designed to be placed at eye level so children can lead their own routine and build daily confidence at their own pace."
+    ],
+    "whyToUse": "Replaces overwhelming verbal instructions with 11 clear picture steps printed on durable, waterproof vinyl to build bathroom independence.",
+    "howToUse": [
+      "Set Up the Sequence: Place the stickers in your bathroom at your child's eye level in exact chronological order (Steps 1 through 11).",
+      "Guide with Visuals: Point to each picture as your child performs the step, using simple, repeatable words.",
+      "Encourage Independence: Let your child try on their own before stepping in while providing support as needed, focusing on praising effort and building confidence.",
+      "Adapt as Needed: Always adjust the pace and the level of support according to your child's unique needs to ensure a stress-free learning environment."
+    ],
+    "whenToUse": [
+      {
+        "title": "Daily Bathroom Routine",
+        "description": "Mount at eye level near the toilet and sink to provide a calm, predictable visual guide."
+      },
+      {
+        "title": "Routine Transitions",
+        "description": "Use during potty training or daily routine changes to reduce anxiety and verbal reminders."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Routine Building",
+      "Visual Structure",
+      "Independence",
+      "Reduced Anxiety"
+    ],
+    "specifications": {
+      "Series": "DayDay (Organization and Routine Aids)",
+      "Variants": "Available in Girl and Boy character designs",
+      "Step Count": "11 visual steps (covering pants down, toileting, wiping, flushing, clothing up, and hand washing)",
+      "Material": "Durable, waterproof vinyl stickers",
+      "Disclaimer": "Sunflower Petals. All rights reserved. All original designs and the Sunflower Petals brand name are proprietary creations and may not be copied or reproduced without permission. Any unauthorized distribution, printing, or modification of these creative elements may be subject to legal consequences."
+    },
+    "createdAt": "2024-07-24T00:00:00Z",
+    "image": "/my-toilet-routine.png",
+    "images": [
+      "/my-toilet-routine.png",
+      "/my-toilet-routine-g.png"
+    ]
+  },
+  {
+    "id": "i-brush-my-teeth",
+    "name": "I Brush My Teeth",
+    "brandId": "dayday",
+    "categoryId": "organization-routine",
+    "description": "A clear, waterproof visual sticker set designed to help your child learn their oral hygiene routine through clear, step-by-step guidance.",
+    "microDescription": "",
+    "color": "#ECFDF5",
+    "priceNumeric": 200,
+    "tag": "New",
+    "featured": true,
+    "isOriginal": true,
+    "whyWeLoveIt": [
+      "Clear Visual Guidance: Replaces long, overwhelming verbal instructions with 12 easy-to-follow picture steps.",
+      "Bathroom-Ready Durability: Printed as waterproof visual stickers that stick smoothly on clean, dry surfaces and wipe clean easily with a damp cloth.",
+      "Builds Independence: Designed to be placed at eye level so children can lead their own routine and learn at their own pace without pressure."
+    ],
+    "whyToUse": "Eliminates long verbal instructions during morning and bedtime bathroom routines with a 12-step waterproof visual sequence.",
+    "howToUse": [
+      "Set Up the Sequence: Place the visuals in your bathroom at your child's eye level in the correct chronological order (Steps 1 through 12).",
+      "Guide with Visuals: Point to each picture as your child performs the step, using simple, repeatable words instead of long instructions.",
+      "Encourage Independence: Let your child try independently before stepping in, making sure to praise effort and not just success.",
+      "Adapt as Needed: Always adjust the pace and the level of support according to your child's unique needs to ensure a stress-free learning environment."
+    ],
+    "whenToUse": [
+      {
+        "title": "Morning & Bedtime Hygiene",
+        "description": "Place beside the bathroom mirror for consistent step-by-step guidance every morning and night."
+      },
+      {
+        "title": "Self-Care Independence",
+        "description": "Helps children track brushing time and complete all steps independently without frustration."
+      }
+    ],
+    "whatItHelpsWith": [
+      "Routine Building",
+      "Visual Structure",
+      "Independence",
+      "Reduced Anxiety"
+    ],
+    "specifications": {
+      "Series": "DayDay (Organization and Routine Aids)",
+      "Variants": "Available in Girl and Boy character designs",
+      "Step Count": "12 visual steps",
+      "Material": "Durable, waterproof vinyl stickers",
+      "Disclaimer": "Sunflower Petals. All rights reserved. All original designs and the Sunflower Petals brand name are proprietary creations and may not be copied or reproduced without permission. Any unauthorized distribution, printing, or modification of these creative elements may be subject to legal consequences."
+    },
+    "createdAt": "2024-07-24T00:00:00Z",
+    "image": "/i-brush-my-teeth.png",
+    "images": [
+      "/i-brush-my-teeth.png",
+      "/i-brush-my-teeth-g.png"
+    ]
+  }
+]

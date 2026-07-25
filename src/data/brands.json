@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cliky-claky",
+    "label": "Cliky Claky",
+    "color": "#2563EB",
+    "href": "#cliky-claky",
+    "section": {
+      "bg": "#EEF4FB",
+      "text": "#1E3A5F",
+      "subtitle": "Sensory & Calming",
+      "logo": "/logos/cliky-claky.png",
+      "description": "Tools and products designed to soothe, regulate, and create a sense of safety — helping your child feel grounded in their world. Because a calm body is a learning body.",
+      "features": [
+        { "label": "Tactile Regulation", "desc": "Hands busy, minds at ease" },
+        { "label": "Auditory Calming", "desc": "Predictable sounds, less overwhelm" },
+        { "label": "Proprioceptive Input", "desc": "Deep pressure for grounding" },
+        { "label": "Vestibular Tools", "desc": "Movement as medicine" }
+      ],
+      "image": "/story/sorting_tray.jpeg",
+      "quote": "A calm child can learn anything.",
+      "quoteSubtitle": "Sensory First",
+      "quoteColor": "#93C5FD",
+      "exploreHref": "/products?category=sensory-regulation",
+      "nextHref": "#dayday",
+      "nextLabel": "Next: DayDay ↓"
+    }
+  },
+  {
+    "id": "dayday",
+    "label": "DayDay",
+    "color": "#FB862A",
+    "href": "#dayday",
+    "section": {
+      "bg": "#FEF6EC",
+      "text": "#7C2D12",
+      "subtitle": "Self-Organising & Independence",
+      "logo": "/logos/dayday.png",
+      "description": "Visual schedules, routines, and structured aids that empower your child to build autonomy and confidence in daily life. The gift of \"I can do it myself.\"",
+      "features": [
+        { "label": "Visual Schedules", "desc": "Day mapped, anxiety reduced" },
+        { "label": "Task Sequences", "desc": "Steps made visible and doable" },
+        { "label": "Time Awareness", "desc": "Now, next, and later — clearly" },
+        { "label": "Transition Aids", "desc": "Smoother endings and beginnings" }
+      ],
+      "image": "/story/night_checklist.jpeg",
+      "quote": "Routines that build confidence.",
+      "quoteSubtitle": "Daily Structure",
+      "quoteColor": "#FED7AA",
+      "exploreHref": "/products?category=organization-routine",
+      "nextHref": "#numsum",
+      "nextLabel": "Next: NumSum ↓"
+    }
+  },
+  {
+    "id": "numsum",
+    "label": "NumSum",
+    "color": "#EB4F5D",
+    "href": "#numsum",
+    "section": {
+      "bg": "#EDFBF1",
+      "text": "#14532D",
+      "subtitle": "Skills & Learning",
+      "logo": "/logos/numsum.png",
+      "description": "Playful, game-like activities that target essential life skills — from communication to fine motor — meeting your child exactly where they are, and gently stretching what they can do.",
+      "features": [
+        { "label": "Number & Literacy", "desc": "Stamps, jars, and playful print" },
+        { "label": "Fine Motor Skills", "desc": "Grip, pinch, sort, and match" },
+        { "label": "Communication", "desc": "PECS, AAC-ready, gesture-first" },
+        { "label": "Early Cognition", "desc": "Sort, sequence, and problem-solve" }
+      ],
+      "image": "/story/number_stamps.jpeg",
+      "quote": "Every stamp is a celebration.",
+      "quoteSubtitle": "Learning Through Play",
+      "quoteColor": "#86EFAC",
+      "exploreHref": "/products?category=skill-building",
+      "nextHref": null,
+      "nextLabel": null
+    }
+  }
+]

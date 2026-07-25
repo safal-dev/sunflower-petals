@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sensory-regulation",
+    "brandId": "cliky-claky",
+    "name": "Sensory Regulation Tools",
+    "subtitle": "Purposeful tools designed to provide sensory input, manage restless energy, and promote a sense of calm and focus.",
+    "image": "/logos/cliky-claky.png",
+    "icon": "Waves",
+    "color": "bg-white"
+  },
+  {
+    "id": "organization-routine",
+    "brandId": "dayday",
+    "name": "Organization and Routine Aids",
+    "subtitle": "Visual and structured aids that help children build predictable routines and understand their daily flow.",
+    "image": "/logos/dayday.png",
+    "icon": "Clock",
+    "color": "bg-white"
+  },
+  {
+    "id": "skill-building",
+    "brandId": "numsum",
+    "name": "Skill-Building and Independence",
+    "subtitle": "Engaging educational tools focused on fostering independent learning, life skills, and cognitive development.",
+    "image": "/logos/numsum.png",
+    "icon": "BrainCircuit",
+    "color": "bg-white"
+  }
+]
