@@ -96,6 +96,7 @@ export default function FoundationClient() {
               src="/GSF.svg" 
               alt="Golden Sunflower Foundation Logo" 
               fill 
+              sizes="450px"
               className="object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.15)]" 
               priority
             />
@@ -113,7 +114,7 @@ export default function FoundationClient() {
             className="relative aspect-[4/5] rounded-[3rem] overflow-hidden shadow-2xl bg-[#FAF9F6]"
           >
              <div className="absolute inset-0 p-12 md:p-20 flex items-center justify-center">
-               <Image src="/GSF.svg" alt="" fill className="object-contain p-12 md:p-20 opacity-10" aria-hidden="true" />
+               <Image src="/GSF.svg" alt="" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-contain p-12 md:p-20 opacity-10" aria-hidden="true" />
                <motion.div 
                  animate={{ y: [0, -10, 0] }}
                  transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}

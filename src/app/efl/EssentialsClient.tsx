@@ -324,7 +324,7 @@ export default function EssentialsForLivingClient() {
             viewport={{ once: true }}
             className="relative h-[400px] md:h-[560px] rounded-[3rem] overflow-hidden shadow-2xl -rotate-1 hover:rotate-0 transition-transform duration-700"
           >
-            <Image src="/story/anything_is_usable.jpeg" alt="Everyday objects used for EFL learning" fill className="object-cover" />
+            <Image src="/story/anything_is_usable.jpeg" alt="Everyday objects used for EFL learning" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
             <div className="absolute bottom-8 left-8 right-8 bg-black/60 backdrop-blur-md p-6 rounded-2xl text-white border border-white/10">
               <p className="text-xs uppercase tracking-widest font-body text-brand-yellow mb-2">EFL at Home</p>

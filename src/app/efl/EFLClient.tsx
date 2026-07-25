@@ -236,7 +236,7 @@ export default function EFLClient() {
             viewport={{ once: true }}
             className="relative h-[400px] md:h-[560px] rounded-[3rem] overflow-hidden shadow-2xl rotate-1 hover:rotate-0 transition-transform duration-700"
           >
-            <Image src="/story/night_checklist.jpeg" alt="Child learning with a checklist" fill className="object-cover" />
+            <Image src="/story/night_checklist.jpeg" alt="Child learning with a checklist" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
             <div className="absolute bottom-8 left-8 right-8 bg-black/60 backdrop-blur-md p-5 rounded-2xl text-white border border-white/10">
               <p className="text-xs uppercase tracking-widest font-body opacity-80 mb-1">Real EFL in action</p>

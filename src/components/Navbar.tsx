@@ -71,6 +71,8 @@ export default function Navbar() {
             src="/main-logo.png" 
             alt="Sunflower Petals" 
             fill 
+            priority
+            sizes="160px"
             className="object-contain object-left" 
           />
         </Link>
@@ -186,7 +188,7 @@ export default function Navbar() {
             </ul>
 
             <div className="absolute bottom-20 left-1/2 -translate-x-1/2 w-48 h-48 opacity-[0.03] pointer-events-none">
-              <Image src="/hero-graphic.svg" alt="" fill className="object-contain grayscale" />
+              <Image src="/hero-graphic.svg" alt="" fill sizes="192px" className="object-contain grayscale" />
             </div>
           </motion.div>
         )}

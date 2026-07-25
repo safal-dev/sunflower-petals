@@ -117,6 +117,7 @@ export default function Footer() {
                   src="/foot-graphic.svg"
                   alt="Character"
                   fill
+                  sizes="65vw"
                   className="object-contain object-right drop-shadow-lg"
                 />
               </motion.div>
@@ -142,6 +143,7 @@ export default function Footer() {
                   src="/main-logo.png"
                   alt="Sunflower Petals"
                   fill
+                  sizes="160px"
                   className="object-contain object-left brightness-0 invert"
                 />
               </Link>
@@ -155,6 +157,7 @@ export default function Footer() {
                       src="/SIA.svg"
                       alt="Sunflower Institute for Autism"
                       fill
+                      sizes="96px"
                       className="object-contain brightness-0 invert"
                     />
                   </div>
@@ -165,6 +168,7 @@ export default function Footer() {
                       src="/GSF.svg"
                       alt="Golden Sunflower Foundation"
                       fill
+                      sizes="96px"
                       className="object-contain brightness-0 invert"
                     />
                   </div>

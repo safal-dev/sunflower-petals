@@ -208,11 +208,11 @@ export default function ProductDetailClient({ product }: { product: FullProduct 
                        {brandInfo && (
                         <div className="absolute top-4 right-4 z-30 pointer-events-none select-none" style={{ right: "1rem", top: "1rem", left: "auto" }}>
                            <div className="relative w-[4.5rem] h-[4.5rem] opacity-100">
-                              <Image src={brandInfo.section.logo} alt="" fill className="object-contain" />
+                              <Image src={brandInfo.section.logo} alt="" fill sizes="72px" className="object-contain" />
                            </div>
                         </div>
                       )}
-                     <Image src={img} alt={product.name} fill className="object-cover relative z-10" />
+                     <Image src={img} alt={product.name} fill sizes="85vw" className="object-cover relative z-10" />
                   </div>
                ))}
             </div>
@@ -231,7 +231,7 @@ export default function ProductDetailClient({ product }: { product: FullProduct 
                       }`}
                       style={{ backgroundColor: product.color }}
                     >
-                      <Image src={img} alt="" fill className="object-cover" />
+                      <Image src={img} alt="" fill sizes="80px" className="object-cover" />
                     </button>
                   ))}
                 </div>
@@ -256,11 +256,11 @@ export default function ProductDetailClient({ product }: { product: FullProduct 
                     {brandInfo && (
                       <div className="absolute top-6 right-6 z-30 pointer-events-none select-none" style={{ right: "1.5rem", top: "1.5rem", left: "auto" }}>
                          <div className="relative w-24 h-24 opacity-100">
-                            <Image src={brandInfo.section.logo} alt="" fill className="object-contain" />
+                            <Image src={brandInfo.section.logo} alt="" fill sizes="96px" className="object-contain" />
                          </div>
                       </div>
                     )}
-                    <Image src={activeImage} alt={product.name} fill className="object-cover relative z-10" />
+                    <Image src={activeImage} alt={product.name} fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover relative z-10" />
                   </motion.div>
                 </AnimatePresence>
               </motion.div>
@@ -378,7 +378,7 @@ export default function ProductDetailClient({ product }: { product: FullProduct 
                                 className="w-12 h-12 rounded-2xl bg-white shadow-sm overflow-hidden relative z-0 hover:z-10 transition-all hover:scale-110"
                                 style={{ backgroundColor: p.color }}
                               >
-                                <Image src={p.image || "/clicky-clacky.png"} alt={p.name} fill className="object-cover" />
+                                <Image src={p.image || "/clicky-clacky.png"} alt={p.name} fill sizes="48px" className="object-cover" />
                               </div>
                             ))}
                         </div>
@@ -652,7 +652,7 @@ export default function ProductDetailClient({ product }: { product: FullProduct 
                     <div className="relative aspect-[4/5] bg-white rounded-[2.5rem] overflow-hidden shadow-xl shadow-black/5 mb-6 transition-all duration-500 group-hover:shadow-brand-yellow/10 group-hover:-translate-y-2">
                        <div className="absolute inset-0 opacity-0 group-hover:opacity-10 transition-opacity" style={{ backgroundColor: p.color }} />
                        <div className="relative w-full h-full">
-                          <Image src={p.image || "/clicky-clacky.png"} alt={p.name} fill className="object-cover transition-transform duration-700 group-hover:scale-110 group-hover:-rotate-3" />
+                          <Image src={p.image || "/clicky-clacky.png"} alt={p.name} fill sizes="(max-width: 640px) 80vw, (max-width: 1024px) 50vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-110 group-hover:-rotate-3" />
                        </div>
                     </div>
                     <div className="px-2">

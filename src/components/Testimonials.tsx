@@ -77,7 +77,7 @@ export default function Testimonials() {
       
       {/* ── Background Branding (Subtle & Static) ── */}
       <div className="absolute top-[20%] right-[-10%] w-[60vw] h-[60vw] opacity-[0.025] pointer-events-none select-none z-0">
-          <Image src="/main-logo.png" alt="" fill className="object-contain" />
+          <Image src="/main-logo.png" alt="" fill sizes="60vw" className="object-contain" />
       </div>
 
       <div className="max-w-[1500px] mx-auto flex flex-col lg:flex-row gap-20 md:gap-32 relative z-10">
@@ -163,6 +163,7 @@ export default function Testimonials() {
                        src={t.avatar} 
                        alt={t.author} 
                        fill 
+                       sizes="56px"
                        className="object-cover"
                      />
                   </div>

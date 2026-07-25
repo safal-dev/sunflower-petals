@@ -71,6 +71,7 @@ export default function AboutClient() {
             src="/hero-graphic.svg" 
             alt="Sunflower character" 
             fill 
+            sizes="(max-width: 768px) 45vw, 32vw"
             className="object-contain object-bottom drop-shadow-[0_20px_50px_rgba(0,0,0,0.1)]" 
           />
         </motion.div>
@@ -96,7 +97,7 @@ export default function AboutClient() {
             viewport={{ once: true }}
             className="relative aspect-square rounded-[3rem] overflow-hidden shadow-2xl shadow-black/5"
           >
-            <Image src="/story.png" alt="Petals Boutique" fill className="object-cover" />
+            <Image src="/story.png" alt="Petals Boutique" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover" />
           </motion.div>
         </div>
       </section>
@@ -162,7 +163,7 @@ export default function AboutClient() {
             style={{backgroundColor: "#f5f5f5"}}
             className="relative aspect-square rounded-[3rem] overflow-hidden shadow-2xl shadow-black/10 order-2 lg:order-1"
           >
-            <Image src="/SIA.svg" alt="Sunflower Institute" fill className="object-contain p-20" />
+            <Image src="/SIA.svg" alt="Sunflower Institute" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-contain p-20" />
           </motion.div>
           <div className="order-1 lg:order-2">
             <SectionHeader title="Where It All Began" subtitle="The Foundation" light />

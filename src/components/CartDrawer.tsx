@@ -120,6 +120,7 @@ export default function CartDrawer() {
                               src={item.image}
                               alt=""
                               fill
+                              sizes="96px"
                               className="object-cover"
                               aria-hidden="true"
                             />

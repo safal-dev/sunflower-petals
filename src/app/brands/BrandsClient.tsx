@@ -115,6 +115,7 @@ export default function BrandsClient() {
                         src={brand.section.logo} 
                         alt={`${brand.label} Logo`} 
                         fill 
+                        sizes="256px"
                         className="object-contain object-left"
                       />
                     </div>
@@ -180,7 +181,7 @@ export default function BrandsClient() {
                 viewport={{ once: true }}
                 className={`relative h-[480px] md:h-[620px] rounded-[3.5rem] overflow-hidden shadow-[0_32px_64px_-16px_rgba(0,0,0,0.15)] transition-all duration-1000 ${isEven ? 'lg:order-2' : 'lg:order-1'}`}
               >
-                <Image src={brand.section.image} alt={`${brand.label} showcase`} fill className="object-cover transition-transform duration-700 hover:scale-110" />
+                <Image src={brand.section.image} alt={`${brand.label} showcase`} fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover transition-transform duration-700 hover:scale-110" />
                 <div 
                   className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent pointer-events-none" 
                 />

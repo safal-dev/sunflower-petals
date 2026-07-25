@@ -103,6 +103,7 @@ export default function Hero() {
             src="/hero-graphic.svg"
             alt=""
             fill
+            sizes="(max-width: 768px) 28vh, (max-width: 1200px) 36vw, 600px"
             className="object-contain object-bottom"
             priority
             aria-hidden="true"

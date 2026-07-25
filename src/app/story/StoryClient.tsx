@@ -225,6 +225,7 @@ export default function StoryClient() {
               src="/story.png"
               alt="Wooden workshop"
               fill
+              sizes="100vw"
               className="object-cover"
               priority
             />
@@ -311,6 +312,7 @@ export default function StoryClient() {
                       src={SHOEBOX_IMAGES[activeShoeboxIdx].src}
                       alt={SHOEBOX_IMAGES[activeShoeboxIdx].alt}
                       fill
+                      sizes="(max-width: 1024px) 100vw, 50vw"
                       className="object-cover"
                     />
                   </motion.div>
@@ -364,6 +366,7 @@ export default function StoryClient() {
                         src={img.src}
                         alt={img.alt}
                         fill
+                        sizes="72px"
                         className="object-cover"
                       />
                       {isActiveThumbnail && (
@@ -466,6 +469,7 @@ export default function StoryClient() {
                       src={img.src}
                       alt={img.alt}
                       fill
+                      sizes="(max-width: 768px) 50vw, 25vw"
                       className="object-cover transition-transform duration-700 group-hover:scale-105"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
@@ -515,7 +519,7 @@ export default function StoryClient() {
                         : "opacity-60 hover:opacity-100 hover:scale-[1.02]"
                     }`}
                   >
-                    <Image src={img.src} alt={img.alt} fill className="object-cover" />
+                    <Image src={img.src} alt={img.alt} fill sizes="160px" className="object-cover" />
                   </button>
                 ))}
               </motion.div>
@@ -561,6 +565,7 @@ export default function StoryClient() {
                       src={MONTAGE_IMAGES[selectedMontage].src}
                       alt={MONTAGE_IMAGES[selectedMontage].alt}
                       fill
+                      sizes="100vw"
                       className="object-contain"
                       priority
                     />
@@ -634,6 +639,7 @@ export default function StoryClient() {
               src="/journeycalendar.png"
               alt="The Calendar Journey"
               fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover"
             />
             <div className="absolute bottom-8 left-8 right-8 bg-black/60 backdrop-blur-md p-6 rounded-2xl text-white border border-white/10">

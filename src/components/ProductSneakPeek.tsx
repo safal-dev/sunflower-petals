@@ -72,6 +72,7 @@ export default function ProductSneakPeek() {
                           src={product.image || "/clicky-clacky.png"}
                           alt={product.name}
                           fill
+                          sizes="(max-width: 640px) 85vw, 50vw"
                           className="object-cover relative z-10"
                         />
                       </div>
@@ -118,6 +119,7 @@ export default function ProductSneakPeek() {
                           src={product.image || "/clicky-clacky.png"}
                           alt={product.name}
                           fill
+                          sizes="(max-width: 768px) 50vw, 25vw"
                           className="object-cover relative z-10"
                           priority={idx < 4}
                         />

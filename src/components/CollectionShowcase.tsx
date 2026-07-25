@@ -34,6 +34,7 @@ const CategoryCard = ({ cat, idx }: { cat: Category; idx: number }) => {
               src={cat.image}
               alt=""
               fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 400px"
               className="object-contain drop-shadow-sm"
               priority
               aria-hidden="true"
@@ -64,7 +65,7 @@ export default function CollectionShowcase() {
       
       {/* ── Background Branding ── */}
       <div className="absolute top-0 right-[-10%] w-[60vw] h-[60vw] opacity-[0.03] pointer-events-none select-none rotate-12" aria-hidden="true">
-          <Image src="/main-logo.png" alt="" fill className="object-contain" />
+          <Image src="/main-logo.png" alt="" fill sizes="60vw" className="object-contain" />
       </div>
 
       {/* ── Section Header (Updated Labeling) ── */}

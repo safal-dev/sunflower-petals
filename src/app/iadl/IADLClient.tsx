@@ -444,7 +444,7 @@ export default function IADLClient() {
             viewport={{ once: true }}
             className="relative h-[400px] md:h-[520px] rounded-[3rem] overflow-hidden shadow-2xl -rotate-1 hover:rotate-0 transition-transform duration-700"
           >
-            <Image src="/story/pecs_collection.jpeg" alt="IADL communication and community skills" fill className="object-cover" />
+            <Image src="/story/pecs_collection.jpeg" alt="IADL communication and community skills" fill sizes="(max-width: 1024px) 100vw, 50vw" className="object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-violet-900/70 via-transparent to-transparent" />
             <div className="absolute bottom-8 left-8 right-8 bg-violet-900/70 backdrop-blur-md p-6 rounded-2xl text-white border border-white/10">
               <p className="text-xs uppercase tracking-widest font-body text-violet-300 mb-2">Communication as IADL</p>
