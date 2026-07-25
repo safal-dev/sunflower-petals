@@ -239,7 +239,8 @@
     "description": "A clear, waterproof visual sticker set designed to help children master bathroom habits step by step.",
     "microDescription": "",
     "color": "#FEF6EC",
-    "priceNumeric": 200,
+    "priceNumeric": 350,
+    "offerPriceNumeric": 200,
     "tag": "New",
     "featured": true,
     "isOriginal": true,
@@ -279,10 +280,10 @@
       "Disclaimer": "Sunflower Petals. All rights reserved. All original designs and the Sunflower Petals brand name are proprietary creations and may not be copied or reproduced without permission. Any unauthorized distribution, printing, or modification of these creative elements may be subject to legal consequences."
     },
     "createdAt": "2024-07-24T00:00:00Z",
-    "image": "/my-toilet-routine.png",
+    "image": "/mytoiletroutine-boy.png",
     "images": [
-      "/my-toilet-routine.png",
-      "/my-toilet-routine-g.png"
+      "/mytoiletroutine-boy.png",
+      "/mytoiletroutinegirl.png"
     ]
   },
   {
@@ -293,7 +294,8 @@
     "description": "A clear, waterproof visual sticker set designed to help your child learn their oral hygiene routine through clear, step-by-step guidance.",
     "microDescription": "",
     "color": "#ECFDF5",
-    "priceNumeric": 200,
+    "priceNumeric": 350,
+    "offerPriceNumeric": 200,
     "tag": "New",
     "featured": true,
     "isOriginal": true,
@@ -333,10 +335,10 @@
       "Disclaimer": "Sunflower Petals. All rights reserved. All original designs and the Sunflower Petals brand name are proprietary creations and may not be copied or reproduced without permission. Any unauthorized distribution, printing, or modification of these creative elements may be subject to legal consequences."
     },
     "createdAt": "2024-07-24T00:00:00Z",
-    "image": "/i-brush-my-teeth.png",
+    "image": "/i-brushmyteethboy.png",
     "images": [
-      "/i-brush-my-teeth.png",
-      "/i-brush-my-teeth-g.png"
+      "/i-brushmyteethboy.png",
+      "/i-brushmyteeth-gril.png"
     ]
   }
 ]
